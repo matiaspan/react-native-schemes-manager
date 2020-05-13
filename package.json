@@ -1,5 +1,5 @@
 {
-  "name": "react-native-schemes-manager",
+  "name": "@waitr/react-native-schemes-manager",
   "description": "Helps to manage React Native XCode projects that use multiple schemes to manage things like environment variables.",
   "version": "2.0.0",
   "main": "index.js",
